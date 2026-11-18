@@ -1,6 +1,6 @@
 cask "klavko" do
-  version "1.2.3"
-  sha256 "d7e01841b5e87008f32d0da7c8080f5ae69711ac86a5e0b37910426d53501175"
+  version "1.2.4"
+  sha256 "fc06104ae44cbde39acf407ba967e0cc0ab31a0a00b63c88058447407dce9cc8"
 
   url "https://github.com/stepsergius/Klavko/releases/download/v#{version}/Klavko-#{version}.zip"
   name "Klavko"
